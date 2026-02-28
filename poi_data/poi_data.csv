@@ -152,8 +152,8 @@ North Avenue,4.6,41.9148,-87.6273,beach
 Oak Street,4.6,41.9032,-87.6235,beach
 Ohio Street,4.6,41.8935,-87.6152,beach
 12th Street,4.5,41.8638,-87.6083,beach
-57th Street,4.5,41.7911,-87.5797,beach
-63rd Street,4.5,41.7827,-87.5748,beach
+57th Street Beach,4.6,41.7911,-87.5797,beach
+63rd Street Beach,4.5,41.7827,-87.5748,beach
 Margaret T Burroughs,4.5,41.8393,-87.6072,beach
 Oakwood,4.5,41.8211,-87.5976,beach
 South Shore,4.5,41.7689,-87.5636,beach
@@ -305,7 +305,6 @@ Kitchen + Kocktails by Kevin Kelley Chicago,4.0,41.8906471,-87.6268582,restauran
 Lao Sze Chuan,4.2,41.9700191,-87.6600111,restaurant
 Strings Ramen Shop Lakeview,4.6,41.9397698,-87.6523433,restaurant
 Okami Sushi Chicago,4.7,41.909201,-87.7956417,restaurant
-Niu Japanese Fusion Lounge,4.4,41.891168,-87.618685,restaurant
 Original Maxwell Street,3.9,41.8771027,-87.7454455,restaurant
 Uvae Kitchen and Wine Bar,4.6,41.9833723,-87.6685482,restaurant
 Lola Adang's Kusina,4.6,42.3164074,-87.8654645,restaurant
@@ -784,7 +783,6 @@ Longman & Eagle,4.7,41.9300853,-87.7071462,restaurant
 Batter & Berries,4.5,41.9316,-87.657725,restaurant
 Porto,4.1,41.8963116,-87.6675548,restaurant
 Sepia,4.6,41.8839596,-87.6425789,restaurant
-EL ideas,4.8,41.86289,-87.6868569,restaurant
 XOCO,4.5,41.8907351,-87.630605,restaurant
 Alla Vita,4.3,41.884577,-87.6425231,restaurant
 Steak 48,4.5,41.892992,-87.6264649,restaurant
@@ -961,7 +959,6 @@ Andy's Thai Kitchen,4.4,41.932783,-87.6534256,restaurant
 Rice'N Bread,4.7,41.9446107,-87.6541123,restaurant
 Momo Factory,4.7,41.9402296,-87.6446089,restaurant
 Pingpong,4.4,41.9424504,-87.6446261,restaurant
-Gyu-Kaku Japanese BBQ,4.5,41.9333063,-87.6444001,restaurant
 Chicago Diplomat Cafe,4.5,41.9385017,-87.6675365,cafe
 La Biznaga,4.7,41.9471038,-87.6469274,restaurant
 Old Crow Smokehouse - Wrigleyville,4.1,41.945776,-87.655655,restaurant
@@ -1191,3 +1188,17 @@ Wildberry Pancakes & Cafe,4.6,41.8861712,-87.6375374,cafe
 Windy City Cafe,4.5,41.8861712,-87.6375374,cafe
 Navy Pier,4.6,41.8871442,-87.632379,landmark
 Concord Music Hall,4.2,41.9144513,-87.7023916,entertainment
+63rd Street Park,4.3,41.783329,-87.5748625,park
+Truth on the Beach,4.1,41.7917919,-87.5808553,restaurant
+German Submarine U-505,4.9,41.7916719,-87.5817244,museum
+Idea Factory,4.5,41.7916079,-87.5823735,museum
+Japanese Garden,5.0,41.7909615,-87.5866887,garden
+Jackson Park Driving Range (Golf),4.2,41.7840441,-87.5832942,entertainment
+McDonald's,3.1,41.7759252,-87.5909554,restaurant
+J&J Fish And Chicken,3.5,41.7747814,-87.5940589,restaurant
+ALDI,4.2,41.7771796,-87.6142589,supermarket
+Trader Joe's,4.6,41.7903619,-87.5965787,supermarket
+Hyde Park Produce Market,4.5,41.7966401,-87.6011209,supermarket
+Former Home of Muhammad Ali,4.8,41.8010344,-87.5975994,landmark
+Eliel House,3.5,41.8162501,-87.606278,landmark
+Cleo's - Bronzeville,4.3,41.8161741,-87.6086511,restaurant
